@@ -3,6 +3,8 @@ The Gabman Theme is a set of a bright and dark color theme for syntax colorizati
 
 Currently the theme is only available for XCode but support for Tincta and Visual Studio Code is planned.
 
+![Theme screenshot](screenshots/ThemeScreenShot.png)
+
 # Installation
 
 First, clone this repo:
