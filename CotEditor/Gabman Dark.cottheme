@@ -1,0 +1,52 @@
+{
+  "attributes" : {
+    "color" : "#b300ad"
+  },
+  "background" : {
+    "color" : "#262626"
+  },
+  "characters" : {
+    "color" : "#f60040"
+  },
+  "commands" : {
+    "color" : "#18b769"
+  },
+  "comments" : {
+    "color" : "#808890"
+  },
+  "insertionPoint" : {
+    "color" : "#c9c9c9"
+  },
+  "invisibles" : {
+    "color" : "#808890"
+  },
+  "keywords" : {
+    "color" : "#18b769"
+  },
+  "lineHighlight" : {
+    "color" : "#222222"
+  },
+  "name" : "Gabman Dark",
+  "numbers" : {
+    "color" : "#f60040"
+  },
+  "selection" : {
+    "color" : "#505050",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#f60040"
+  },
+  "text" : {
+    "color" : "#c9c9c9"
+  },
+  "types" : {
+    "color" : "#008acf"
+  },
+  "values" : {
+    "color" : "#f60040"
+  },
+  "variables" : {
+    "color" : "#b300ad"
+  }
+}

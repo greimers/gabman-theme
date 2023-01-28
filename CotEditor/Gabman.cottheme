@@ -1,0 +1,52 @@
+{
+  "attributes" : {
+    "color" : "#b300ad"
+  },
+  "background" : {
+    "color" : "#f3f3f3"
+  },
+  "characters" : {
+    "color" : "#f60040"
+  },
+  "commands" : {
+    "color" : "#1eac56"
+  },
+  "comments" : {
+    "color" : "#808890"
+  },
+  "insertionPoint" : {
+    "color" : "#262626"
+  },
+  "invisibles" : {
+    "color" : "#808890"
+  },
+  "keywords" : {
+    "color" : "#1eac56"
+  },
+  "lineHighlight" : {
+    "color" : "#dbdbdb"
+  },
+  "name" : "Gabman",
+  "numbers" : {
+    "color" : "#f60040"
+  },
+  "selection" : {
+    "color" : "#b6b6b6",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#f60040"
+  },
+  "text" : {
+    "color" : "#262626"
+  },
+  "types" : {
+    "color" : "#008acf"
+  },
+  "values" : {
+    "color" : "#f60040"
+  },
+  "variables" : {
+    "color" : "#b300ad"
+  }
+}
