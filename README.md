@@ -1,6 +1,11 @@
 # Gabman Theme
 The Gabman Theme is a set of a bright and dark color theme for syntax colorization.
 
+<img src="https://user-images.githubusercontent.com/5694277/215326938-2affd9d5-ba32-4258-99bb-8a3931d1a4f8.png"
+     width="640" alt="Screenshot of Gabman Theme in XCode"/>
+
+
+
 Currently the theme is only available for the following editors and apps:
 * XCode 
 * macOS Terminal
